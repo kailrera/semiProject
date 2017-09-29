@@ -7,6 +7,6 @@
 <title>Semi Project</title>
 </head>
 <body>
-	<h1>semi Project</h1>
+	<h1>Hong semi Project</h1>
 </body>
 </html>
