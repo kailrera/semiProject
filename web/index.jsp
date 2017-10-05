@@ -10,10 +10,14 @@
 <%@ include file="header.jsp" %>
 </head>
 <body>
+<<<<<<< HEAD
 <hr>
 본문영역
 <hr>
 </div>
 <%@ include file="footer.jsp" %>
+=======
+	<h1>Hong shvjbjjbbjemi Project</h1>
+>>>>>>> branch 'master' of https://github.com/kailrera/semiProject.git
 </body>
 </html>
