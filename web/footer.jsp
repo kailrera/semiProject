@@ -4,16 +4,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>다재다능 세미 프로젝트</title>
-<script src="../../js/jquery-3.2.1.min.js">
-</script>
-<%@ include file="header.jsp" %>
+<title>footer</title>
 </head>
 <body>
-<hr>
-본문영역
-<hr>
+<div align="center">
+	<h1>하단 영역</h1>
 </div>
-<%@ include file="footer.jsp" %>
+
 </body>
 </html>
